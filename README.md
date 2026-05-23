@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 I'm Shivam Jha
 
 ## 🚀 About Me
