@@ -1,16 +1,32 @@
 ## Hi there 👋
 
 <!--
-**shivam21jhagit/shivam21jhagit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Shivam Jha
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 BTech CSE Student
+- 💻 Interested in AI, Full Stack & Open Source
+- 🌱 Currently learning DSA, Java, ML & AI
+- 🎯 Preparing for GSSoC 2026
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Java
+- Python
+- HTML/CSS
+- Git & GitHub
+- DBMS
+- Operating Systems
+- Data Structures & Algorithms
+- Machine Learning
+- Open Source
+
+## 📌 Current Goals
+- Contribute to Open Source
+- Build AI Projects
+- Improve Problem Solving Skills
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/shivam-jha-11210b334/
+
+## ⚡ Fun Fact
+I enjoy building projects and exploring AI tools 🚀
